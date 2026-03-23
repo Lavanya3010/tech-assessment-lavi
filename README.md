@@ -1,2 +1,3 @@
 # tech-assessment-lavi
-first commt
+first commit
+second commit
