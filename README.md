@@ -1,3 +1,3 @@
 # tech-assessment-lavi
-first commit
+version and control system
 second commit
